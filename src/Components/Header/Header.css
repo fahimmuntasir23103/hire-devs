@@ -1,0 +1,11 @@
+/* header component */
+.mainHeader{
+    background-color:#ff5100dc;
+    color: white;
+    width: 90%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.headerInfos{
+    padding: 10px 70px
+}

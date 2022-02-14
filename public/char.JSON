@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Tony E. Riggins",
+    "worksAt": "Google",
+    "position": "C++ Developer",
+    "workingFrom": "2017",
+    "salary": 150000,
+    "img": "https://image.shutterstock.com/image-photo/portrait-handsome-young-man-programmer-600w-1124991695.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Charles H. Baltazar",
+    "worksAt": "Amazon",
+    "position": "Python Developer",
+    "workingFrom": "2015",
+    "salary": 175000,
+    "img": "https://miro.medium.com/max/1400/1*C-4wtrU9UqFYPB0s9IseWw.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Bruce J. Johnson",
+    "worksAt": "Facebook",
+    "position": "React Developer",
+    "workingFrom": "2019",
+    "salary": 95000,
+    "img": "https://image.shutterstock.com/image-photo/startup-business-software-developer-working-600w-321052196.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tommy H. Hull",
+    "worksAt": "Netflix",
+    "position": "R Developer",
+    "workingFrom": "2018",
+    "salary": 123000,
+    "img": "https://image.freepik.com/free-photo/shipping-businessman-management-occupation-industrial_1134-1003.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Robert C. Smith",
+    "worksAt": "Alibaba",
+    "position": "Java Developer",
+    "workingFrom": "2020",
+    "salary": 99000,
+    "img": "https://image.shutterstock.com/image-photo/concentrated-young-man-working-on-600w-753412747.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Paul L. Hancocks",
+    "worksAt": "Google",
+    "position": "GO Developer",
+    "workingFrom": "2019",
+    "salary": 133000,
+    "img": "https://image.freepik.com/free-photo/worker-gesturing-with-his-left-hand_1149-184.jpg"
+  },
+  {
+    "id": 7,
+    "name": "David A. Smith",
+    "worksAt": "Instagram",
+    "position": "PHP Developer",
+    "workingFrom": "2015",
+    "salary": 145000,
+    "img": "https://as2.ftcdn.net/v2/jpg/02/85/98/31/500_F_285983137_YVgUzZwvYi9PzkXU0MsPsyuWMgCj83DW.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mack B. Ford",
+    "worksAt": "Microsoft",
+    "position": ".NET Developer",
+    "workingFrom": "2016",
+    "salary": 117000,
+    "img": "https://image.freepik.com/free-photo/mand-holding-cup_1258-340.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Robert J. Anderson",
+    "worksAt": "Apple",
+    "position": "Swift Developer",
+    "workingFrom": "2014",
+    "salary": 125000,
+    "img": "https://image.shutterstock.com/image-photo/happy-website-designer-standing-office-600w-582865015.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Carey J. Ash",
+    "worksAt": "Tesla",
+    "position": "Python Developer",
+    "workingFrom": "2013",
+    "salary": 150000,
+    "img": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Web_Dev_Earnings-1024x512.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Marlin K. Brose",
+    "worksAt": "Amazon",
+    "position": "C++ Developer",
+    "workingFrom": "2020",
+    "salary": 150000,
+    "img": "https://image.freepik.com/free-photo/skyscraper-view-city-leader-window-frame_1134-1034.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Oscar H. Josey",
+    "worksAt": "Twitter",
+    "position": "Scala Developer",
+    "workingFrom": "2017",
+    "salary": 150000,
+    "img": "https://as1.ftcdn.net/v2/jpg/03/29/38/50/500_F_329385073_lbj3k0oJFprRoRXnWbm0eKTwY4NVYZJ9.jpg"
+  }
+]
